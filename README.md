@@ -53,7 +53,7 @@ VehicleManagementSystem/
 ```
 ## SQL CODE ##
 
-```
+```sql
 CREATE DATABASE VEHICLE_ENTITY;
 USE VEHICLE_ENTITY;
 CREATE TABLE VEHICLE(
